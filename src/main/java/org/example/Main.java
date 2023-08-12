@@ -6,6 +6,5 @@ public class Main {
         System.out.println("hello idea_git");
         System.out.println("hello idea_git");
         System.out.println("hello idea_git");
-
     }
 }
